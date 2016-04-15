@@ -1,4 +1,4 @@
-/* Challenge: Learn how Script Tags and Document Ready Work 
+/* Challenge #2: Target HTML Elements with Selectors Using jQuery 
 Code by Perrin Clark
 BlackGuyCoding@gmail.com
 https://www.freecodecamp.com/blackguycoding
