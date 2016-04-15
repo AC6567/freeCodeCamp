@@ -1,4 +1,4 @@
-/* Challenge #6: Remove Classes from an element with jQuery 
+/* Challenge #7: Remove Classes from an element with jQuery 
 Code by Perrin Clark
 BlackGuyCoding@gmail.com
 https://www.freecodecamp.com/blackguycoding
